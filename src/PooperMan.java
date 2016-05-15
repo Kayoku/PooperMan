@@ -12,7 +12,5 @@ public class PooperMan {
 		while(!glfwWindowShouldClose(win)) {
 			glfwPollEvents();
 		}
-		
 	}
-
 }
